@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harjot-singh-jassal-7510aa214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harjot singh jassal" height="30" width="40" /></a>
-<a href="https://instagram.com/iharjoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iharjoot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harjotsinghjassal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjotsinghjassal12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harjot-singh-jassal-7510aa214/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harjot singh jassal" height="30" width="40" /></a>
+<a href="https://instagram.com/iharjoot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iharjoot" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harjotsinghjassal12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harjotsinghjassal12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
